@@ -11,7 +11,7 @@ AviUtl2上でプレビューを再生しながらナレーション等の音声�
 - **録音設定**: マイクデバイスの選択、サンプリングレート（48000Hz / 44100Hz）、チャンネル（モノラル / ステレオ）の設定が可能です。
 
 ## 導入方法
-1. Latest Releaseから最新版の`AudioRecorder_vX_X_X.zip` をダウンロードします。
+1. [Release](https://github.com/Muride/AviUtl-AudioRecorder/releases)から最新版の`AudioRecorder_vX_X_X.zip` をダウンロードします。
 2. zipファイルを展開し、`AudioRecorder.aux2`ファイルをAviUtl2の `Plugin` フォルダに入れます。
 3. AviUtl2を起動し、「表示」メニューから「AudioRecorderClient」をクリックすることで、録音パネルを呼び出すことができます。
 
